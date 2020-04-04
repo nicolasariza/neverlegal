@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/neverlegal/static/css/main.9900741b.chunk.css",
-    "main.js": "/neverlegal/static/js/main.bf2f93e3.chunk.js",
-    "main.js.map": "/neverlegal/static/js/main.bf2f93e3.chunk.js.map",
+    "main.js": "/neverlegal/static/js/main.c551b04c.chunk.js",
+    "main.js.map": "/neverlegal/static/js/main.c551b04c.chunk.js.map",
     "runtime-main.js": "/neverlegal/static/js/runtime-main.b280e32f.js",
     "runtime-main.js.map": "/neverlegal/static/js/runtime-main.b280e32f.js.map",
     "static/css/2.de424728.chunk.css": "/neverlegal/static/css/2.de424728.chunk.css",
     "static/js/2.f4d951e5.chunk.js": "/neverlegal/static/js/2.f4d951e5.chunk.js",
     "static/js/2.f4d951e5.chunk.js.map": "/neverlegal/static/js/2.f4d951e5.chunk.js.map",
     "index.html": "/neverlegal/index.html",
-    "precache-manifest.621359f9d4c09c26ce1963eac9d29164.js": "/neverlegal/precache-manifest.621359f9d4c09c26ce1963eac9d29164.js",
+    "precache-manifest.a008a644f4fb02f680abe4988f340f85.js": "/neverlegal/precache-manifest.a008a644f4fb02f680abe4988f340f85.js",
     "service-worker.js": "/neverlegal/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/neverlegal/static/css/2.de424728.chunk.css.map",
     "static/css/main.9900741b.chunk.css.map": "/neverlegal/static/css/main.9900741b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.f4d951e5.chunk.js",
     "static/css/main.9900741b.chunk.css",
-    "static/js/main.bf2f93e3.chunk.js"
+    "static/js/main.c551b04c.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f087dc8548ab08f64ab37b6d8fff1e19",
+    "revision": "9ebd45c0a2a366fefda5351488b8b3a6",
     "url": "/neverlegal/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neverlegal/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "602e75c8a735ebfd2c76",
+    "revision": "3841245c17d019380d84",
     "url": "/neverlegal/static/css/main.9900741b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neverlegal/static/js/2.f4d951e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "602e75c8a735ebfd2c76",
-    "url": "/neverlegal/static/js/main.bf2f93e3.chunk.js"
+    "revision": "3841245c17d019380d84",
+    "url": "/neverlegal/static/js/main.c551b04c.chunk.js"
   },
   {
     "revision": "30d8fcc31ef0d5645ff1",
