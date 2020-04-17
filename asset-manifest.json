@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/neverlegal/static/css/main.53685b92.chunk.css",
-    "main.js": "/neverlegal/static/js/main.99b52f65.chunk.js",
-    "main.js.map": "/neverlegal/static/js/main.99b52f65.chunk.js.map",
+    "main.css": "/neverlegal/static/css/main.67caa11e.chunk.css",
+    "main.js": "/neverlegal/static/js/main.bafef128.chunk.js",
+    "main.js.map": "/neverlegal/static/js/main.bafef128.chunk.js.map",
     "runtime-main.js": "/neverlegal/static/js/runtime-main.b280e32f.js",
     "runtime-main.js.map": "/neverlegal/static/js/runtime-main.b280e32f.js.map",
     "static/css/2.de424728.chunk.css": "/neverlegal/static/css/2.de424728.chunk.css",
-    "static/js/2.8a410c6d.chunk.js": "/neverlegal/static/js/2.8a410c6d.chunk.js",
-    "static/js/2.8a410c6d.chunk.js.map": "/neverlegal/static/js/2.8a410c6d.chunk.js.map",
+    "static/js/2.1528eeaa.chunk.js": "/neverlegal/static/js/2.1528eeaa.chunk.js",
+    "static/js/2.1528eeaa.chunk.js.map": "/neverlegal/static/js/2.1528eeaa.chunk.js.map",
     "index.html": "/neverlegal/index.html",
-    "precache-manifest.54ef864d76c3252697eaf3edec51308f.js": "/neverlegal/precache-manifest.54ef864d76c3252697eaf3edec51308f.js",
+    "precache-manifest.e0fe2d174e4e8d1519d900f402e11c44.js": "/neverlegal/precache-manifest.e0fe2d174e4e8d1519d900f402e11c44.js",
     "service-worker.js": "/neverlegal/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/neverlegal/static/css/2.de424728.chunk.css.map",
-    "static/css/main.53685b92.chunk.css.map": "/neverlegal/static/css/main.53685b92.chunk.css.map",
-    "static/js/2.8a410c6d.chunk.js.LICENSE.txt": "/neverlegal/static/js/2.8a410c6d.chunk.js.LICENSE.txt",
+    "static/css/main.67caa11e.chunk.css.map": "/neverlegal/static/css/main.67caa11e.chunk.css.map",
+    "static/js/2.1528eeaa.chunk.js.LICENSE.txt": "/neverlegal/static/js/2.1528eeaa.chunk.js.LICENSE.txt",
     "static/media/1.png": "/neverlegal/static/media/1.7239fe40.png",
     "static/media/2.png": "/neverlegal/static/media/2.1647010e.png",
     "static/media/3.png": "/neverlegal/static/media/3.20d38154.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.b280e32f.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.8a410c6d.chunk.js",
-    "static/css/main.53685b92.chunk.css",
-    "static/js/main.99b52f65.chunk.js"
+    "static/js/2.1528eeaa.chunk.js",
+    "static/css/main.67caa11e.chunk.css",
+    "static/js/main.bafef128.chunk.js"
   ]
 }
