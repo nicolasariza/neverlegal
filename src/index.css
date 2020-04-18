@@ -11,3 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  position: fixed;
+  z-index: 500;
+  color: #25d366;
+}
+
+/* mouse over link */
+.fa:hover {
+  color: #128c7e;
+}
+
+/* selected link */
+.fa:active {
+  color: #25d366;
+}
+
+
+.fa-instagram {
+  color: #C13584;
+  margin-top: 40px;
+}
+.fa-instagram:hover {
+  color: #833AB4;
+}
+.fa-instagram:active {
+  color: #C13584;
+}
+
+.fa-facebook {
+  color:#3B5998;
+  margin-top: 80px;
+}
+
+.fa-facebook:hover {
+  color: #125688;
+}
+.fa-facebook:active {
+  color: #3B5998;
+}
+
+
